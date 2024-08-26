@@ -14,5 +14,10 @@ img {
 }
 
 h1 {
+  font-family: "Lato", sans-serif;
   color: rgb(55, 104, 104);
+}
+
+.tituloMusicas {
+  color: gray;
 }/*# sourceMappingURL=style.css.map */
